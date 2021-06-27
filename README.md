@@ -1,9 +1,4 @@
 # myOWN-CS
 configs, plugins with C++, ready to compile for .amx
 
-public read_this_important_info()
-{
-  register_counterstrikeconfigs(crosshair, movement, game options)
-  register_counterstrikeplugins(server plugins, client, addons)
-  register_counterstrikereadytocompile(writed in C++ but ready to compile to .pwn/.amx)
-}
+1. Black-screen flashbang (You can add your own duration, hold time, fade type, stunning, sounds and whatever)
